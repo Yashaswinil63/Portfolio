@@ -1,0 +1,12 @@
+/* Contact.css */
+
+.social-icon {
+    width: 50px; /* Set the default width */
+    height: 50px; /* Set the default height */
+    transition: transform 0.3s; /* Add a transition for smooth scaling */
+  }
+  
+  .social-icon:hover {
+    transform: scale(1.7); /* Enlarge the icon on hover */
+  }
+  
